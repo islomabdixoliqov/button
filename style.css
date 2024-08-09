@@ -52,7 +52,7 @@ body{
     content: "";    
     left: 0;
     right: 0;
-    background-image: linear-gradient(to left,rgb(217,0,0),rgba(4,243,48),rgb(255,182,10));
+    background-image: linear-gradient(to left,rgb(216, 189, 189),rgba(4,243,48),rgb(255,182,10));
     background-color: blue;
     height: 3px;
     bottom: -10px;
